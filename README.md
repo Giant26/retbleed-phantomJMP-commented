@@ -1,6 +1,8 @@
+This is a functionally identical fork of the orignal retbleed repository, with fully commented 
+code of [cp_bti.c](./phantom_poc/cp_bti.c), the phantom JMP proof of concept. (see the [addendum](https://comsec.ethz.ch/wp-content/files/retbleed_addendum_sec22.pdf) of the original paper)
+-----------------
 RETBleed Artifact
 -----------------
-
 Demo of leaking /etc/shadow contents on Intel and AMD
 https://www.youtube.com/watch?v=dmSPvJxPm80 
 
